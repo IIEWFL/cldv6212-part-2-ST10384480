@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "abcRetailFunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7013"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 33043,
+      "useSSL": false
+    }
+  }
+}
